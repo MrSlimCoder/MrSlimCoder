@@ -1,30 +1,28 @@
-🙎‍♂️ "Vivek Anand" is a software engineer and developer advocate with love for coding and cares about developer relations.
+## About Me
 
-👉 "Vivek Anand" is software engineering graduate from Mehran University of Engineering and Technology Jamshoro.
+° Welcome to my world
 
-🕵️ "Vivek Anand" is full-time software engineer and a developer advocate (DevRel) during his free time .
+° I'm "Vivek Anand Sharma" software engineer by profession and have worked on highly demand and new technologies i.e JS, Go, AWS, Microservices and much more. 
 
-👨‍💻 "Vivek Anand" is Tech , Community and FOSS Enthusiast.
+° I'm open sourcerer, community enthusiast, love to helps developer communities and student's, love to speak in events/webinars, love to give back to community by recording courses and uploading those courses for free.
 
-🤹 After his full-time job, "Vivek Anand" also known as "Slim Coder" (Vivek's another personality).
+° I believe a good developer is the one who loves to give back to it's community and i try my best to learn new stuff and then share my experiences with community people.
 
-🙋‍♂️ "Slim Coder" love to help developers community on dev.to , medium , stackoverflow , youtube and on github.
+° My two github organization are already on top in Pakistan namely: Techistan & Learn with geeks.
 
-🙌 Don't forget to follow "Vivek Anand" , "Slim Coder" and hashtag "#slimcoder" on all plateforms i.e youtube, dev.to and medium etc , "Slim Coder" is everywhere.
+° Helped freecodecamp, node js foundation, js.org and alot of open sourcerer around globe.
 
-🙏 Thank you for visiting my profile.
+° Helped local communities of Google, Microsoft, Github etc as Speaker.
 
-<!--
-**viveksharmaui/viveksharmaui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+° Helped many peoples by uploading videos/courses/webinars on YouTube.
 
-Here are some ideas to get you started:
+° Helped many startups and companies to build awesome products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+° Published articles for my publisher on Medium also helping developer community on dev.to.
+
+° I'm also known as "Slim Coder" which is derived from "Eminem" another name "Slim Shady" , "Slim Coder" is a fictional character which manage all my dev accounts LOL i.e github, stackoverflow, youtube etc.
+
+° Slim is everywhere don't forget to follow him by using his hashtag #slimcoder.
+
+° Thank you for visiting my profile.
+

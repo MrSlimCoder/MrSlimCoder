@@ -2,7 +2,7 @@
 
 ° Welcome to my world
 
-° I'm "Vivek Anand Sharma" software engineer by profession and have worked on highly demand and new technologies i.e JS, Go, AWS, Microservices and much more. 
+° I'm "Vivek Anand Sharma" aka "Slim Coder" software engineer by profession and have worked on highly demand and new technologies i.e JS, Go, AWS, Microservices and much more. 
 
 ° I'm open sourcerer, community enthusiast, love to helps developer communities and student's, love to speak in events/webinars, love to give back to community by recording courses and uploading those courses for free.
 
@@ -20,9 +20,4 @@
 
 ° Published articles for my publisher on Medium also helping developer community on dev.to.
 
-° I'm also known as "Slim Coder" which is derived from "Eminem" another name "Slim Shady" , "Slim Coder" is a fictional character which manage all my dev accounts LOL i.e github, stackoverflow, youtube etc.
-
-° Slim is everywhere don't forget to follow him by using his hashtag #slimcoder.
-
 ° Thank you for visiting my profile.
-

@@ -1,23 +1,36 @@
 ## About Me
 
-° Welcome to my world
+Hi, 
 
-° I'm "Vivek Anand Sharma" aka "Slim Coder" software engineer by profession and have worked on highly demand and new technologies i.e JS, Go, AWS, Microservices and much more. 
+I am Vivek Anand Sharma aka Slim Coder a Software Engineer and have worked with the latest technologies having great professional experience in the field of Software Development and Programming.
 
-° I'm open sourcerer, community enthusiast, love to helps developer communities and student's, love to speak in events/webinars, love to give back to community by recording courses and uploading those courses for free.
+My expertise includes:
+✔ Back-End using NodeJS and Go.
+✔ SQL and NoSQL databases.
+✔ REST APIs using Express.
+✔ Microservices based Applications.
+✔ Front-end responsive web application using HTML, CSS, JavaScript (PWA), Material-UI, Bootstrap, React, Redux, and Angular.
+✔ Docker for containerized applications.
+✔ Deployment of the highest scalable application that can be run on any cloud service provides including (Amazon AWS, Heroku, etc).
+✔ Mobile Application using React Native framework.
 
-° I believe a good developer is the one who loves to give back to it's community and i try my best to learn new stuff and then share my experiences with community people.
+I am also an open-source developer, community enthusiast, love to helps developer communities and students, love to speak in events/webinars, love to give back to the community by recording courses, and uploading those courses for free.
 
-° My two github organization are already on top in Pakistan namely: Techistan & Learn with geeks.
+My community/volunteer works helped:
+✔  Freecodecamp, Node js foundation, js.org, and a lot of open source developers around the globe.
+✔ Local communities of Google, Microsoft, Github, etc as Speaker.
+✔ Uploaded videos/courses/webinars on YouTube.
+✔ Startups and Companies to build real-time projects.
+✔ Publisher on Medium also helping the developer community on dev.to.
+✔ Developers on Stackoverflow.
 
-° Helped freecodecamp, node js foundation, js.org and alot of open sourcerer around globe.
+My achievements/certifications include:
+✔ Community Manager of Mentors without Borders and Golang Pakistan.
+✔ Two Medium publishers namely, Be Yourself and Voice of Code.
+✔ Two Top 10 Github Organization in Pakistan.
+✔ MERN Stack and MOS Word Certified.
+✔ Member of AWS and Linux Pakistan.
 
-° Helped local communities of Google, Microsoft, Github etc as Speaker.
+Learning new stuff is my passion also I am also looking forward to your consideration.
 
-° Helped many peoples by uploading videos/courses/webinars on YouTube.
-
-° Helped many startups and companies to build awesome products.
-
-° Published articles for my publisher on Medium also helping developer community on dev.to.
-
-° Thank you for visiting my profile.
+Thank you!

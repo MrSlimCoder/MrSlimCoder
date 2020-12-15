@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I’m looking for help, like to help;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I don't a have a degree;
-- 📫 How to reach me: sharma_vivek62@yahoo.com;
+- 📫 How to reach me: slimcoder@yandex.com;
 
 **Languages and Tools:** 
 

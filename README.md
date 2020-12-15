@@ -20,8 +20,8 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working as Software Engineer;
 - 🌱 I'm in love with Golang; 
-- 👯 I’m looking to collaborate on my organization 🤝;
-- 🤔 I’m looking for help, like to help;
+- 👯 I’m looking forward to work with different organizations 🤝;
+- 🤔 I like to help others;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I don't a have a degree;
 - 📫 How to reach me: slimcoder@yandex.com;

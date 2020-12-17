@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Slim Coder, a Developer 🚀 from Pakistan.
+## Hi, I'm Slim Coder, a Software Developer 🚀 from Pakistan.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/

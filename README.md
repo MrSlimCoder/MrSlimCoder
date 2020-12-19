@@ -69,4 +69,5 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
 
 <br/>
+<br/>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slimcoders" alt="slim coder's trophies" /></a>

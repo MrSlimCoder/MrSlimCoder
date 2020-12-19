@@ -33,6 +33,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
     <img width="55%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=slimcoders&show_icons=true&hide_border=true" />
+    <br/>
+    <br/>
     <img width="55%" align="right" alt="Slim Coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimcoders&layout=compact" />
   
   <!-- Your languages and tools. Be careful with the alignment. 

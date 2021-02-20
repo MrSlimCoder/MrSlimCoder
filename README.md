@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking forward to work with different organizations 🤝;
 - 🤔 I like to help others;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I don't a have a degree;
+- ⚡️ Fun-Fact: I'm everywhere;
 - 📫 How to reach me: slimcoder@yandex.com;
 
 **Languages and Tools:** 

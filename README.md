@@ -32,10 +32,10 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-    <img width="55%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=slimcoders&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=Mrslimcoder&show_icons=true&hide_border=true" />
     <br/>
     <br/>
-    <img width="55%" align="right" alt="Slim Coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimcoders&layout=compact" />
+    <img width="55%" align="right" alt="Slim Coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrslimcoder&layout=compact" />
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/

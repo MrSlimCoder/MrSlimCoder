@@ -72,19 +72,22 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder&theme=dark)](https://git.io/streak-stats)
-
-
-
-<br/>
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSlimCoder&theme=onedark" alt="slim coder's trophies" /></a>
 
 
 <br/>
 
 <img src="/HVywBX.gif?raw=true" width="100%" height="30%">
 
+<br/>
+<br/>
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder&theme=dark)](https://git.io/streak-stats)
+
+<br/>
+
+<br/>
+<br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSlimCoder&theme=onedark" alt="slim coder's trophies" /></a>
 

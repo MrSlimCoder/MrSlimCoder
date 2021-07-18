@@ -72,7 +72,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder&theme=dark)](https://git.io/streak-stats)
 
 
 
@@ -83,4 +83,4 @@ Both apis are in trouble due to the number of requests, if you know any other to
 [![Watch the introductory video](https://res.cloudinary.com/dwl34s9au/image/upload/v1608633831/Screenshot_20201222-154157_ovzn1w.png)](https://youtu.be/GYdvbAsieeo)
 
 <br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSlimCoder" alt="slim coder's trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSlimCoder&theme=onedark" alt="slim coder's trophies" /></a>

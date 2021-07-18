@@ -70,6 +70,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
  
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder)](https://git.io/streak-stats)
+
+
+
 <br/>
 
 **Watch The Introductory Video:**

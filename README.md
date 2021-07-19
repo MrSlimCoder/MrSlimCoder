@@ -30,8 +30,6 @@ You can use the website to generate badges: https://shields.io/
 <br/>
 <br/>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSlimCoder&theme=onedark&row=3&column=4" alt="slim coder's trophies" />
-<br/>
-    <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder&theme=dark)](https://git.io/streak-stats)
  <p align="center">
     <img width="50%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=Mrslimcoder&show_icons=true&hide_border=true&theme=dark" />

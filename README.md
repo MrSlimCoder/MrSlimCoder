@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img src="/HVywBX.gif?raw=true" width="45%" align="right" alt="Github">
+<img src="/HVywBX.gif?raw=true" width="40%" align="right" alt="Github">
 
 - 👨🏽‍💻 I’m currently working as Software Engineer;
 - 🌱 I'm in love with Golang; 
@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/
 **Streaks & Trophies:**
 <br/>
 <br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSlimCoder&theme=onedark&row=3&column=2" alt="slim coder's trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSlimCoder&theme=onedark&row=3&column=3" alt="slim coder's trophies" />
 <br/>
     <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder&theme=dark)](https://git.io/streak-stats)

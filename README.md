@@ -34,9 +34,9 @@ You can use the website to generate badges: https://shields.io/
     <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder&theme=dark)](https://git.io/streak-stats)
  <p align="center">
-    <img width="55%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=Mrslimcoder&show_icons=true&hide_border=true&theme=dark" />
-    <img width="55%" align="right" alt="Slim Coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrslimcoder&layout=compact&theme=dark" />
-<p> 
+    <img width="50%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=Mrslimcoder&show_icons=true&hide_border=true&theme=dark" />
+    <img width="50%" align="right" alt="Slim Coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrslimcoder&layout=compact&theme=dark" />
+ </p> 
   
 **Languages and Tools:** 
 
@@ -62,16 +62,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
-<br/>
-
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=slimcoders.slimcoders" />
+  <br/>
+  <br/>
+  <br/>
+  <p align="center"> <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=slimcoders.slimcoders" /></p>
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
- 
 </p>

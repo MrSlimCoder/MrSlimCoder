@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img src="/HVywBX.gif?raw=true" width="45%" align="right" alt="Github">
 
 - 👨🏽‍💻 I’m currently working as Software Engineer;
 - 🌱 I'm in love with Golang; 
@@ -26,18 +26,25 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Fun-Fact: I'm everywhere;
 - 📫 How to reach me: slimcoder@yandex.com;
 
+**Streaks & Trophies:**
+<br/>
+<br/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSlimCoder&theme=onedark&row=3&column=2" alt="slim coder's trophies" />
+<br/>
+    <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder&theme=dark)](https://git.io/streak-stats)
+ <p align="center">
+    <img width="55%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=Mrslimcoder&show_icons=true&hide_border=true&theme=dark" />
+    <img width="55%" align="right" alt="Slim Coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrslimcoder&layout=compact&theme=dark" />
+<p> 
+  
 **Languages and Tools:** 
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-    <img width="55%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=Mrslimcoder&show_icons=true&hide_border=true&theme=dark" />
-    <br/>
-    <br/>
-    <img width="55%" align="right" alt="Slim Coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrslimcoder&layout=compact&theme=dark" />
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
+      <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
@@ -56,7 +63,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 </p>
-
 <br/>
 
 <!-- Your hits or visitors
@@ -69,25 +75,3 @@ Both apis are in trouble due to the number of requests, if you know any other to
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
  
 </p>
-
-<br/>
-
-
-
-<br/>
-
-<img src="/HVywBX.gif?raw=true" width="100%" height="30%">
-
-<br/>
-<br/>
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder&theme=dark)](https://git.io/streak-stats)
-
-<br/>
-
-<br/>
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSlimCoder&theme=onedark" alt="slim coder's trophies" /></a>
-

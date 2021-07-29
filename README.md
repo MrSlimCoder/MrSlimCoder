@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img src="/HVywBX.gif?raw=true" width="35%" align="right" alt="Github">
+<img src="/imageonline-co-roundcorner.png" width="50%" align="right" alt="Github">
 
 - 👨🏽‍💻 I’m currently working as Software Engineer;
 - 🌱 I'm in love with Golang; 

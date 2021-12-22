@@ -1,12 +1,12 @@
 <!-- Your title -->
-## Hi, I'm Slim Coder, a Software Developer 🚀 from Pakistan.
+## Hi, I'm Slim Coder, a Technical Content Creator & Computer Training School 🚀 from Pakistan.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/slimcoders)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/slimcoder)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TheSlimCoder)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/slimcoder)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/slimcoder)
 [![YouTube](https://img.shields.io/badge/-Youtube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/slimcoder)
 
@@ -18,24 +18,24 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as Software Engineer;
-- 🌱 I'm in love with Golang; 
-- 👯 I’m looking forward to work with different organizations 🤝;
-- 🤔 I like to help others;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm everywhere;
-- 📫 How to reach me: slimcoder@yandex.com;
+- 👨🏽‍💻 We are computer training academy;
+- 🌱 We are in love with Golang; 
+- 👯 We ar looking forward to work with different organizations 🤝;
+- 🤔 We like to help others;
+- 💬 Ask us about anything, We are happy to help;
+- ⚡️ Fun-Fact: We are everywhere;
+- 📫 How to reach us: TheSlimCoder.com;
 
 **Streaks & Trophies:**
 <br/>
 <br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSlimCoder&theme=onedark&row=3&column=4" alt="slim coder's trophies" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder&theme=dark)](https://git.io/streak-stats)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheSlimCoder&theme=onedark&row=3&column=4" alt="slim coder's trophies" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheSlimCoder&theme=dark)](https://git.io/streak-stats)
  
- [![Slim Coder's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrSlimCoder&theme=react-dark)](https://github.com/ashutosh00710/github-readme-actvity-graph) 
+ [![Slim Coder's github activity graph](https://activity-graph.herokuapp.com/graph?username=TheSlimCoder&theme=react-dark)](https://github.com/ashutosh00710/github-readme-actvity-graph) 
  <p align="center">
-    <img width="50%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=Mrslimcoder&show_icons=true&hide_border=true&theme=dark" />
-    <img width="50%" align="right" alt="Slim Coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrslimcoder&layout=compact&theme=dark" />
+    <img width="50%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=Theslimcoder&show_icons=true&hide_border=true&theme=dark" />
+    <img width="50%" align="right" alt="Slim Coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSlimCoder&layout=compact&theme=dark" />
  </p> 
  
 
@@ -67,6 +67,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br/>
   <br/>
   <br/>
-  <p align="center"> <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=slimcoders.slimcoders" /></p>
+  <p align="center"> <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=TheSlimCoder.TheSlimCoder" /></p>
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
 </p>

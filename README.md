@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Slim Coder, a Technical Content Creator & Computer Training School 🚀 from Pakistan.
+## Technical Content Creator & Computer Training School 🚀.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/

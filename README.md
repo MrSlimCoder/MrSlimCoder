@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Technical Content Creator & Computer Training School 🚀.
+## Technical Content Creator & Computer Training School 🚀
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -67,6 +67,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br/>
   <br/>
   <br/>
-  <p align="center"> <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=TheSlimCoder.TheSlimCoder" /></p>
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
 </p>

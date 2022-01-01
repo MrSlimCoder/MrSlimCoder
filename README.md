@@ -1,5 +1,4 @@
 <!-- Your title -->
-## Technical Content Creator & Computer Training School 🚀
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/

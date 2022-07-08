@@ -12,18 +12,17 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Any image aligned to the right. Beware the width -->
-<img src="/imageonline-co-roundcorner.png" width="30%" align="right" alt="Github">
 
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 We are computer training academy;
-- 🌱 We are in love with Golang; 
-- 👯 We ar looking forward to work with different organizations 🤝;
-- 🤔 We like to help others;
-- 💬 Ask us about anything, We are happy to help;
-- ⚡️ Fun-Fact: We are everywhere;
-- 📫 How to reach us: TheSlimCoder.com;
+- 👨🏽‍💻 I'm a Computer Programmer;
+- 🌱 I'm in love with Golang; 
+- 👯 I'm looking forward to work with different organizations 🤝;
+- 🤔 I like to help others;
+- 💬 Ask me about anything, I'm happy to help;
+- ⚡️ Fun-Fact: I'm everywhere;
+- 📫 How to contact me: TheSlimCoder.com;
 
 **Streaks & Trophies:**
 <br/>

@@ -22,18 +22,18 @@ You can use the website to generate badges: https://shields.io/
 - 🤔 I like to help others;
 - 💬 Ask me about anything, I'm happy to help;
 - ⚡️ Fun-Fact: I'm everywhere;
-- 📫 How to contact me: TheSlimCoder.com;
+- 📫 How to contact me: SlimCoder.co;
 
 **Streaks & Trophies:**
 <br/>
 <br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheSlimCoder&theme=onedark&row=3&column=4" alt="slim coder's trophies" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheSlimCoder&theme=dark)](https://git.io/streak-stats)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrSlimCoder&theme=onedark&row=3&column=4" alt="slim coder's trophies" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrSlimCoder&theme=dark)](https://git.io/streak-stats)
  
- [![Slim Coder's github activity graph](https://activity-graph.herokuapp.com/graph?username=TheSlimCoder&theme=react-dark)](https://github.com/ashutosh00710/github-readme-actvity-graph) 
+ [![Slim Coder's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrSlimCoder&theme=react-dark)](https://github.com/ashutosh00710/github-readme-actvity-graph) 
  <p align="center">
-    <img width="50%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=Theslimcoder&show_icons=true&hide_border=true&theme=dark" />
-    <img width="50%" align="right" alt="Slim Coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSlimCoder&layout=compact&theme=dark" />
+    <img width="50%" align="right" alt="Slim Coder's Github State" src="https://github-readme-stats.vercel.app/api?username=Mrslimcoder&show_icons=true&hide_border=true&theme=dark" />
+    <img width="50%" align="right" alt="Slim Coder's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSlimCoder&layout=compact&theme=dark" />
  </p> 
  
 
